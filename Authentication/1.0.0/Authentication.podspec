@@ -34,7 +34,7 @@ Pod::Spec.new do |spec|
 
   # spec.platform     = :ios
   spec.platform     = :ios, "12.0"
-  spec.source       = { :git => "https://github.com/xuzhao-nick/Authentication.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/xuzhao-nick/Authentication.git"}
   #spec.source       = { :git => "ssh://git@code.pruconnect.net:7999/pacstemplateengine/templateengineruntime.git", :tag => "#{spec.version}" }
 
 
